@@ -1,0 +1,6 @@
+{
+  "name": "Kastelas Fashion AI",
+  "description": "AI clothing outfit planner, virtual closet organizer, and editorial fashion blogging system built on quiet luxury aesthetic modeling.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
